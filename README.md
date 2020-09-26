@@ -1,10 +1,10 @@
 # Color-Scripts
 
-* This is a **collection of terminal olor scripts** created by **various people** that **were previously scattered** around the web,  now **all brought together in one place**.
+* This is a **collection of terminal color scripts** created by **various people** that **were previously scattered** around the web,  now **all brought together in one place**.
 
-* You will find screenshots in the directory named `preview`
+* You will find screenshots in the directory named `preview`.
 
-* All the scripts have been baptized with `chmod +x`.
+* All the scripts have been baptized (made executable) with `chmod +x`.
 
 ![Screenshot](http://i.imgur.com/tyA72c7.png)
 
@@ -40,6 +40,6 @@ wget git.io/colr.zip
 
 ## Contributions
 
-* If you have created or found a color script which is not present in this repository then **Feel Free** to make a [Pull Request](https://github.com/stark/Color-Scripts/pulls) :-)
+* If you have **created** or **found** a **color script** which **is not present** in this repository then **Feel Free** to make a [Pull Request](https://github.com/stark/Color-Scripts/pulls) :-)
 
 * You can also share your script via a pastebin of your choice and pasting the link in a [New Issue](https://github.com/stark/Color-Scripts/issues).
